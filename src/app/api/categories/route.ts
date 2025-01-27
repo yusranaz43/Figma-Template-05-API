@@ -4,22 +4,22 @@ const categories = [
   {
     "_id": "1",
     "title": "Men",
-    "imageUrl": "/images/product9.png"
+    "imageUrl": "https://template-05-api-by-yusranaz.vercel.app/images/product9.png"
   },
   {
     "_id": "2",
     "title": "Women",
-    "imageUrl": "/images/product10.png"
+    "imageUrl": "https://template-05-api-by-yusranaz.vercel.app/images/product10.png"
   },
   {
     "_id": "3",
     "title": "Accessories",
-    "imageUrl": "/images/product11.png"
+    "imageUrl": "https://template-05-api-by-yusranaz.vercel.app/images/product11.png"
   },
   {
     "_id": "4",
     "title": "Kids",
-    "imageUrl": "/images/product12.png"
+    "imageUrl": "https://template-05-api-by-yusranaz.vercel.app/images/product12.png"
   }
 ];
 
