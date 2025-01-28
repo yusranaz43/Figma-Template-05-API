@@ -309,7 +309,7 @@ const products = [
   },
   {
     _id: "P9MoNrM8jYL7C3WzNQVT8X",
-    title: "Small Printed Skirt",
+    title: "Brown Cropped Jacket",
     originalPrice: 20,
     discountedPrice: 15,
     category: {
