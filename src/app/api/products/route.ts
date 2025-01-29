@@ -6,6 +6,8 @@ const products = [
     title: "Elegant Layered Top",
     originalPrice: 30,
     discountedPrice: 20,
+    description:"A sophisticated layered top designed for effortless charm. Crafted from soft, breathable fabric, it drapes beautifully, making it perfect for both casual and semi-formal occasions.",
+    retings: 4.5,
     category: {
       _id: "2",
       title: "Women",
@@ -19,9 +21,11 @@ const products = [
   },
   {
     _id: "3lfjJc6xfJVyGl3sMldeD4",
-    title: "Printed T-Shirt",
+    title: "Modern Weave Skirt",
     originalPrice: 25,
     discountedPrice: 20,
+    description:"A stylish weave-patterned skirt that combines elegance with comfort. Its lightweight fabric and flattering fit make it a versatile choice for both day and evening wear.",
+    retings: 4.5,
     category: {
       _id: "4",
       title: "Kids",
@@ -38,6 +42,8 @@ const products = [
     title: "Classic White Jeans",
     originalPrice: 40,
     discountedPrice: 20,
+    description:"Timeless white jeans with a sleek fit and premium stretch fabric. These versatile bottoms elevate any outfit, offering comfort and effortless style for every occasion.",
+    retings: 4.5,
     category: {
       _id: "2",
       title: "Women",
@@ -51,9 +57,11 @@ const products = [
   },
   {
     _id: "3lfjJc6xfJVyGl3sMldeaY",
-    title: "Modern Weave Skirt",
+    title: "Printed T-Shirt",
     originalPrice: 30,
     discountedPrice: 20,
+    description:"A trendy printed tee that adds a pop of personality to your wardrobe. Made from soft cotton, it ensures all-day comfort with a modern and stylish appeal.",
+    retings: 4.5,
     category: {
       _id: "2",
       title: "Women",
@@ -70,6 +78,8 @@ const products = [
     title: "Modern Duffle Coat",
     originalPrice: 25,
     discountedPrice: 20,
+    description:"Stay warm in this sophisticated duffle coat, featuring a tailored fit and premium wool blend. Perfect for layering, it offers both style and functionality for winter.",
+    retings: 4.5,
     category: {
       _id: "1",
       title: "Men",
@@ -86,6 +96,8 @@ const products = [
     title: "Cozy Long Shirt",
     originalPrice: 50,
     discountedPrice: 40,
+    description:"A soft and breathable long shirt designed for ultimate comfort. Its relaxed fit and chic design make it perfect for casual outings or cozy indoor lounging.",
+    retings: 4.5,
     category: {
       _id: "3",
       title: "Accessories",
@@ -102,6 +114,8 @@ const products = [
     title: "Hooded Sweat Shirt",
     originalPrice: 25,
     discountedPrice: 20,
+    description:"A must-have hoodie with a relaxed fit and ultra-soft fabric. Whether for workouts or everyday wear, it offers warmth, comfort, and a classic sporty vibe.",
+    retings: 4.5,
     category: {
       _id: "1",
       title: "Men",
@@ -118,6 +132,8 @@ const products = [
     title: "Cute Graphic Tees",
     originalPrice: 40,
     discountedPrice: 20,
+    description:"Fun and stylish graphic tees featuring eye-catching designs. Made from premium cotton, these tees offer a relaxed fit and vibrant prints to express your unique style.",
+    retings: 4.5,
     category: {
       _id: "4",
       title: "Kids",
@@ -134,6 +150,8 @@ const products = [
     title: "Beige Bomber Jacket",
     originalPrice: 45,
     discountedPrice: 35,
+    description:"A trendy beige bomber jacket crafted from high-quality fabric. Featuring a sleek design, ribbed cuffs, and a comfortable fit, it’s a perfect mix of style and functionality.",
+    retings: 4.5,
     category: {
       _id: "1",
       title: "Men",
@@ -150,6 +168,8 @@ const products = [
     title: "Classic Polo Neck",
     originalPrice: 35,
     discountedPrice: 25,
+    description:"A timeless polo-neck shirt with a sleek and elegant silhouette. Made from breathable fabric, it offers both warmth and versatility for layering or standalone wear.",
+    retings: 4.5,
     category: {
       _id: "2",
       title: "Women",
@@ -167,6 +187,8 @@ const products = [
     title: "Retro Denim Jacket",
     originalPrice: 50,
     discountedPrice: 35,
+    description:"A vintage-inspired denim jacket with a classic wash and stylish details. Durable, versatile, and effortlessly cool, it's the perfect layering piece for all seasons.",
+    retings: 4.5,
     category: {
       _id: "3",
       title: "Accessories",
@@ -183,6 +205,8 @@ const products = [
     title: "Sunny Yellow Dress",
     originalPrice: 40,
     discountedPrice: 30,
+    description:"Brighten up your day with this cheerful yellow dress. Featuring a flowy silhouette and lightweight fabric, it’s perfect for sunny outings and breezy comfort.",
+    retings: 4.5,
     category: {
       _id: "4",
       title: "Kids",
@@ -200,6 +224,8 @@ const products = [
     title: "Modern Trench Coat",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"A contemporary take on the classic trench coat. Tailored for a refined look, it offers lightweight warmth and effortless sophistication for transitional weather.",
+    retings: 4.5,
     category: {
       _id: "3",
       title: "Accessories",
@@ -216,6 +242,8 @@ const products = [
     title: "Cut Sleeve Jacket",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"A stylish sleeveless jacket that adds an edgy touch to any outfit. Layer it over casual or formal wear for a chic and confident statement.",
+    retings: 4.5,
     category: {
       _id: "4",
       title: "Kids",
@@ -232,6 +260,8 @@ const products = [
     title: "Cozy Cotton Shirt",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"Experience all-day comfort with this soft cotton shirt. Breathable and lightweight, it’s perfect for layering or wearing solo for a relaxed, effortless look.",
+    retings: 4.5,
     category: {
       _id: "1",
       title: "Men",
@@ -248,6 +278,8 @@ const products = [
     title: "Chic Wrap Blouse",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"A stylish wrap blouse designed for a flattering fit. Its soft fabric and elegant design make it an ideal choice for both office wear and casual outings.",
+    retings: 4.5,
     category: {
       _id: "2",
       title: "Women",
@@ -264,6 +296,8 @@ const products = [
     title: "Classic Strip Jacket",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"A timeless striped jacket with a sleek fit and structured design. Perfect for layering, it adds a sophisticated touch to both casual and formal outfits.",
+    retings: 4.5,
     category: {
       _id: "3",
       title: "Accessories",
@@ -280,6 +314,8 @@ const products = [
     title: "Premium Black Hoodie",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"A high-quality black hoodie crafted from ultra-soft fabric. Featuring a relaxed fit and cozy feel, it's an everyday essential for effortless style and comfort.",
+    retings: 4.5,
     category: {
       _id: "3",
       title: "Accessories",
@@ -296,6 +332,8 @@ const products = [
     title: "Half Sleeve T-Shirt",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"A lightweight half-sleeve t-shirt with a soft and breathable fabric. Perfect for casual outings, it pairs effortlessly with jeans, skirts, or shorts.",
+    retings: 4.5,
     category: {
       _id: "4",
       title: "Kids",
@@ -312,6 +350,8 @@ const products = [
     title: "Brown Cropped Jacket",
     originalPrice: 20,
     discountedPrice: 15,
+    description:"A trendy cropped jacket in a warm brown shade. Designed for a flattering fit, it’s perfect for layering over dresses or high-waisted bottoms.",
+    retings: 4.5,
     category: {
       _id: "2",
       title: "Women",
