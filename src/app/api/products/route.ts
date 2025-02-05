@@ -30,7 +30,7 @@ const products = [
       _id: "2",
       title: "Women",
       imageUrl:
-        "https://template-05-api-by-yusranaz.vercel.app/images/product12.png",
+        "https://template-05-api-by-yusranaz.vercel.app/images/product10.png",
     },
     imageUrl:
       "https://template-05-api-by-yusranaz.vercel.app/images/product2.png",
@@ -66,7 +66,7 @@ const products = [
       _id: "1",
       title: "Men",
       imageUrl:
-        "https://template-05-api-by-yusranaz.vercel.app/images/product10.png",
+        "https://template-05-api-by-yusranaz.vercel.app/images/product9.png",
     },
     imageUrl:
       "https://template-05-api-by-yusranaz.vercel.app/images/product4.png",
