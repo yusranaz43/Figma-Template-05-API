@@ -28,7 +28,7 @@ const products = [
     ratings: 4.7,
     category: {
       _id: "4",
-      title: "Kids",
+      title: "Women",
       imageUrl:
         "https://template-05-api-by-yusranaz.vercel.app/images/product12.png",
     },
@@ -64,7 +64,7 @@ const products = [
     ratings: 4.6,
     category: {
       _id: "2",
-      title: "Women",
+      title: "Men",
       imageUrl:
         "https://template-05-api-by-yusranaz.vercel.app/images/product10.png",
     },
