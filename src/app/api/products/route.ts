@@ -27,7 +27,7 @@ const products = [
     description:"A stylish weave-patterned skirt that combines elegance with comfort. Its lightweight fabric and flattering fit make it a versatile choice for both day and evening wear.",
     ratings: 4.7,
     category: {
-      _id: "4",
+      _id: "2",
       title: "Women",
       imageUrl:
         "https://template-05-api-by-yusranaz.vercel.app/images/product12.png",
@@ -63,7 +63,7 @@ const products = [
     description:"A trendy printed tee that adds a pop of personality to your wardrobe. Made from soft cotton, it ensures all-day comfort with a modern and stylish appeal.",
     ratings: 4.6,
     category: {
-      _id: "2",
+      _id: "1",
       title: "Men",
       imageUrl:
         "https://template-05-api-by-yusranaz.vercel.app/images/product10.png",
